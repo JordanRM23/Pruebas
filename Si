@@ -1,0 +1,8 @@
+.house {
+ width: var(--main-width);
+ height: var(--main-height);
+ overflow: hidden;
+ background-image: var(--image);
+ background-size: var(--size);
+ background-position: var(--position);
+ background-repeat: no-repeat;
