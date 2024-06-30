@@ -6,3 +6,4 @@
  background-size: var(--size);
  background-position: var(--position);
  background-repeat: no-repeat;
+}
